@@ -1,0 +1,10 @@
+D:\eduardo\Applicaciones\Reports\Reports\bin\Debug\Reports.exe.config
+D:\eduardo\Applicaciones\Reports\Reports\bin\Debug\Reports.exe
+D:\eduardo\Applicaciones\Reports\Reports\bin\Debug\Reports.pdb
+D:\eduardo\Applicaciones\Reports\Reports\obj\Debug\Reports.csprojResolveAssemblyReference.cache
+D:\eduardo\Applicaciones\Reports\Reports\obj\Debug\Reports.exe
+D:\eduardo\Applicaciones\Reports\Reports\obj\Debug\Reports.pdb
+D:\eduardo\Applicaciones\Reports\Reports\bin\Debug\EntityFramework.dll
+D:\eduardo\Applicaciones\Reports\Reports\bin\Debug\EntityFramework.SqlServer.dll
+D:\eduardo\Applicaciones\Reports\Reports\bin\Debug\EntityFramework.xml
+D:\eduardo\Applicaciones\Reports\Reports\bin\Debug\EntityFramework.SqlServer.xml
